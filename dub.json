@@ -1,0 +1,12 @@
+{
+	"description": "A steganography library of the D programming language.",
+	"license": "MIT",
+	"authors": [
+		"SybilEclipse"
+	],
+	"copyright": "Copyright © 2018, SybilEclipse",
+	"name": "psychometry",
+  "dependencies": {
+    "imageformats": "~>7.0.0"
+  }
+}
