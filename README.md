@@ -1,10 +1,8 @@
 # Psychometry
-========
 Psychometry is a steganography library of the D programming language.
 Implementation of steganographic algorithm is modularized in this library, so we will be able to add various types of algorithm. 
 
 # Usage
---------
 ## LSB Steganography(encode)
 ```D
 import imageformats;
